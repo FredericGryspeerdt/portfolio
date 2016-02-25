@@ -1,0 +1,1289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"change",
+				"changepwd"
+			],
+			[
+				"ha",
+				"hasPasswordChanged"
+			],
+			[
+				"er",
+				"$errorMsg〔variable〕"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"show",
+				"showHelp"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bot",
+				"text-bottom"
+			],
+			[
+				"te",
+				"text-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"op",
+				"op	opacity"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"sty",
+				"border-style"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"contro",
+				"pFontControls"
+			],
+			[
+				"ism",
+				"isMultiplayer"
+			],
+			[
+				"conne",
+				"connectButton"
+			],
+			[
+				"sho",
+				"showIpTextField"
+			],
+			[
+				"hid",
+				"hideIpTextField"
+			],
+			[
+				"aantal",
+				"aantalLoops"
+			],
+			[
+				"aanta",
+				"aantalLoops"
+			],
+			[
+				"aant",
+				"aantalLoops"
+			],
+			[
+				"sear",
+				"searchMark"
+			],
+			[
+				"arr",
+				"arrLanden"
+			],
+			[
+				"tezo",
+				"teZoekLand"
+			],
+			[
+				"rest",
+				"restBeurten"
+			],
+			[
+				"image",
+				"speluitlegImage"
+			],
+			[
+				"prin",
+				"println	println var"
+			],
+			[
+				"my",
+				"myMap"
+			],
+			[
+				"center",
+				"centerLoc"
+			],
+			[
+				"font",
+				"fontControls"
+			],
+			[
+				"acht",
+				"achtergrondHome"
+			],
+			[
+				"is",
+				"isServerOpDeHoogte"
+			],
+			[
+				"aan",
+				"aantalReadyClients"
+			],
+			[
+				"home",
+				"makeGoHomeButton"
+			],
+			[
+				"isf",
+				"isFirstLoop2"
+			],
+			[
+				"searh",
+				"searchMark"
+			],
+			[
+				"zoek",
+				"plaatsTeZoekenLandOpKaart"
+			],
+			[
+				"solo",
+				"soloGameEnd"
+			],
+			[
+				"cound",
+				"timeCountDownGestart"
+			],
+			[
+				"else",
+				"else	else"
+			],
+			[
+				"shor",
+				"shortestDistance"
+			],
+			[
+				"winn",
+				"winnendeAfstand"
+			],
+			[
+				"afst",
+				"afstandClient2"
+			],
+			[
+				"afstan",
+				"afstandClient2"
+			],
+			[
+				"aantl",
+				"aantalReadyClients"
+			],
+			[
+				"zoekl",
+				"zoekLatEnLong"
+			],
+			[
+				"start",
+				"startCountDown"
+			],
+			[
+				"remo",
+				"removeStartButtons"
+			],
+			[
+				"com",
+				"compare"
+			],
+			[
+				"GAME",
+				"GAMESTATE"
+			],
+			[
+				"mess",
+				"messageCode"
+			],
+			[
+				"server",
+				"serverState"
+			],
+			[
+				"print",
+				"println	println text"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"bin",
+				"binnenkomendBericht"
+			],
+			[
+				"set",
+				"setup	setup"
+			],
+			[
+				"serv",
+				"serverState"
+			],
+			[
+				"setu",
+				"setup	setup"
+			],
+			[
+				"lst",
+				"lstMarkers"
+			],
+			[
+				"game",
+				"gameState"
+			],
+			[
+				"printl",
+				"println	println var"
+			],
+			[
+				"fill",
+				"fill	fill grey alpha"
+			],
+			[
+				"reset",
+				"resetMap"
+			],
+			[
+				"setup",
+				"setupMyMap"
+			],
+			[
+				"countr",
+				"countryInfo"
+			],
+			[
+				"getJ",
+				"getJSONObject"
+			],
+			[
+				"Json",
+				"JSONObject"
+			],
+			[
+				"JSon",
+				"JSONObject"
+			],
+			[
+				"name",
+				"name_equals"
+			],
+			[
+				"getJs",
+				"getJSONObject"
+			],
+			[
+				"for",
+				"for	for"
+			],
+			[
+				"getc",
+				"GetCountries"
+			],
+			[
+				"js",
+				"jsonLanden"
+			],
+			[
+				"Jso",
+				"JSONObject"
+			],
+			[
+				"setP",
+				"setPath"
+			],
+			[
+				"dis",
+				"distance"
+			],
+			[
+				"sa",
+				"sat"
+			],
+			[
+				"bri",
+				"brightness	brightness"
+			],
+			[
+				"check",
+				"checkDistance"
+			],
+			[
+				"mouse",
+				"mouse	mouseY"
+			],
+			[
+				"mous",
+				"mouse	mouseX"
+			],
+			[
+				"curso",
+				"cursorLoc"
+			],
+			[
+				"add",
+				"addMarker"
+			],
+			[
+				"pan",
+				"panTo"
+			],
+			[
+				"hand",
+				"handPos"
+			],
+			[
+				"cent",
+				"centrumLocZichtbareMap"
+			],
+			[
+				"cen",
+				"centerPos"
+			],
+			[
+				"fing",
+				"fingerPosition"
+			],
+			[
+				"Pan",
+				"panTo"
+			],
+			[
+				"tap",
+				"tapLoc"
+			],
+			[
+				"z",
+				"zoomLvl"
+			],
+			[
+				"fingerp",
+				"fingerPos"
+			],
+			[
+				"finger",
+				"fingerPosition"
+			],
+			[
+				"screen",
+				"screenPos"
+			],
+			[
+				"try",
+				"try	try..catch"
+			],
+			[
+				"ypo",
+				"yposFinger"
+			],
+			[
+				"x",
+				"xposMouse"
+			],
+			[
+				"mo",
+				"mouse	mouseY"
+			],
+			[
+				"TYP",
+				"TYPE_SCREEN_TAP"
+			],
+			[
+				"stro",
+				"strokeWeight"
+			],
+			[
+				"Pa",
+				"PApplet"
+			],
+			[
+				"tet",
+				"textWidth"
+			],
+			[
+				"scr",
+				"screenPosition"
+			],
+			[
+				"f",
+				"fill"
+			],
+			[
+				"strok",
+				"strokeCap"
+			],
+			[
+				"mark",
+				"marker"
+			],
+			[
+				"coun",
+				"countryClick"
+			],
+			[
+				"clic",
+				"clickMarker"
+			],
+			[
+				"in",
+				"info"
+			],
+			[
+				"click",
+				"clickLocation"
+			],
+			[
+				"yPo",
+				"ypos"
+			],
+			[
+				"xp",
+				"xpos"
+			],
+			[
+				"clcik",
+				"clickLocation"
+			],
+			[
+				"cl",
+				"ClickMarker"
+			],
+			[
+				"mou",
+				"mouse	mousePressed"
+			],
+			[
+				"fra",
+				"framerate	frameRate (set)"
+			],
+			[
+				"JS",
+				"JSONObject"
+			],
+			[
+				"json",
+				"JSONObject"
+			],
+			[
+				"geo",
+				"geonames"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"htt",
+				"httpget"
+			],
+			[
+				"cli",
+				"clickMarker"
+			],
+			[
+				"thui",
+				"thuisLocation"
+			],
+			[
+				"load",
+				"loadJSONObject"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/broadcasts.php",
+			"settings":
+			{
+				"buffer_size": 32567,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/master.php",
+			"settings":
+			{
+				"buffer_size": 18290,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/commonclass.php",
+			"settings":
+			{
+				"buffer_size": 81920,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Processing/Build Systems/Processing.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"INS",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n);",
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src/login.php",
+		"/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/events.php",
+		"/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/commonclass.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src/changepwd.php",
+		"/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/environment.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src/reports.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src/auth.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src/phpConnectMySQL.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 2/Opnieuw gemaakt/phpconnectMySQL.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 4/Thuis opnieuw gemaakt/weergevenbieren.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 3/Opnieuw gemaakt/Prepared Statements/bierenperkleur.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 3/Opnieuw gemaakt/Prepared Statements/bierkleuren.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 3/linknaareigenpagina.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 2/PHPConnect.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 9/WTA.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 5/add.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 5/bankproducten.inc",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 8/bierenweergeven.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 9/postspeelster.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 10/autozoeker.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 3/Opnieuw gemaakt/Prepared Statements/WTAspeelsters.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/USBWebserver/root/Labo 2/Opnieuw gemaakt/phpconnect.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/Webservice/models/events.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/admin/application/controllers/profile.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/admin/application/controllers/subadmin.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/admin/index.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/Webservice/models/userprofile.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/users/config.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/UDUBSit/udubsit_cleanData2/root/users/newpassword.php",
+		"/C/Users/Frederic/AppData/Local/Temp/fz3temp-1/wp-config-sample.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Portfolio site/USBWebserver/root/portfolio/src/blog/wordpress/wp-config.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/config/database.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/views/pages/home.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/config/routes.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/controllers/News.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/models/News_model.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/controllers/Pages.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/codeigniter/application/config/config.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2014-2015/New Media/Project/frederic.gryspeerdt-newmedia-eindopdracht/Broncode Terra Incognita/client/client.pde",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/application/config/config.php",
+		"/C/Users/Frederic/AppData/Roaming/Sublime Text 3/Packages/Project Manager/Project Manager.sublime-settings",
+		"/C/Users/Frederic/AppData/Roaming/Sublime Text 3/Packages/SideBarFolders/Side Bar Folders.sublime-settings",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/rest.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/REST_Controller.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/php/USBWebserver/root/format.php",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2013-2014/2013-2014/Datamanagement/Labo's/Week 02 Select/PHPConnect.php",
+		"/C/Users/Frederic/Documents/GitHub/ProjectGeofeelings/.git/COMMIT_EDITMSG",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Stage/Portfolio site/CSS/pure-layout-marketing/css/layouts/marketing.css",
+		"/C/Users/Frederic/AppData/Local/Temp/fz3temp-1/get_highscores.php",
+		"/C/Users/Frederic/AppData/Local/Temp/fz3temp-1/install.php",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO1A53.tmp/06-UsingLineNumbering.js",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO85F0.tmp/06b-LineNumberingClosure.js",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO7A76.tmp/06a-LineNumberingConstructor.js",
+		"/C/Users/Frederic/Desktop/BE-FredericGryspeerdt/MongoDB-dump/Cocktails/Cocktails.metadata.json",
+		"/C/Users/Frederic/Desktop/BE-FredericGryspeerdt/sourceData/vodkas.json",
+		"/C/Users/Frederic/Desktop/BE-FredericGryspeerdt/BE_Frederic_Gryspeerdt/routes/index.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/01-Javascript-intro/012-MixSyncAsync.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/01-Javascript-intro/013-async.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/01-Javascript-intro/021-modLoader.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/02B. TASKRUNNERS/Gulpfiles/package.json",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/07. ANGULAR VERVOLG/Flickr/src/services/flickrService.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/07. ANGULAR VERVOLG/Flickr/src/ImagesOverview/ImagesOverviewController.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/05C. HERHALINGSOEF/ParkingPage/src/services/parkingService.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/02B. TASKRUNNERS/Gulpfiles/gulpfile.js",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO8E37.tmp/app.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/07. ANGULAR VERVOLG/Flickr/src/ImageDetails/ImageDetailsController.js",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO815E.tmp/bower.json",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO3E88.tmp/package.json",
+		"/C/Users/Frederic/AppData/Local/Temp/7zOEA2D.tmp/gulpfile.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/YY. EXAMEN/EXAMEN/bronbestanden/data/huisartsen.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/02B. TASKRUNNERS/gulpintro2/Gruntfile.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/YY. EXAMEN/EXAMEN/bronbestanden/v1/validatorModule.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/YY. EXAMEN/Oefening 1 Examen/src/scripts/customjs.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/01. Intro/Opdrachten/Les_1_homemade/navigator_properties.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/02-node_servers/110-TCPClient.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/02-node_servers/110-TCPServer.js",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/.git/COMMIT_EDITMSG",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/AndroidApp/.idea/gradle.xml",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/06. ANGULAR/MyChildhood/data/media.json",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/06. ANGULAR/Flickr/src/app.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/05A. MODULAIR PROGRAMMEREN/mods.html",
+		"/C/Users/Frederic/Documents/GitHub/node-js-getting-started/app.json",
+		"/C/Users/Frederic/Documents/GitHub/node-js-getting-started/index.js",
+		"/C/Users/Frederic/Documents/GitHub/node-js-getting-started/package.json",
+		"/C/Users/Frederic/Documents/GitHub/ProjectGeofeelings/Geofeelings/.idea/workspace.xml",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/AndroidApp/app/src/main/java/team4/howest/be/androidapp/SubmissionsRVAdapter.java",
+		"/C/NMCT/mongod.conf",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/AndroidApp/app/src/main/java/team4/howest/be/androidapp/view/SubverseFragment.java",
+		"/C/Users/Frederic/.v8flags.4.5.103.33.Frederic.json",
+		"/C/Users/Frederic/.mongorc.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/App Development For Android/Project/opengraph-java-master/src/org/opengraph/OpenGraphNamespace.java",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/App Development For Android/Project/opengraph-java-master/examples/backtothefuture/src/BackToTheFuture.java",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Back End Web Dev/MongoDBDemo/mongod.conf",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/GithubTutorial/version-control/reflections/lesson_2_reflections.txt",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/GithubTutorial/version-control/asteroids/game.js",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Back End Web Dev/MongoDBDemo/primer-dataset.json",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/AndroidApp/app/src/main/java/team4/howest/be/androidapp/view/MainActivity.java",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/AndroidApp/app/src/main/java/team4/howest/be/androidapp/service/VoatApiService.java",
+		"/C/Users/Frederic/Documents/GitHub/Team4-AndroidApp/AndroidApp/app/app.iml",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/06. Angular/angular-mocks.js",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/GithubTutorial/version-control/reflections/lesson_1_reflections.txt",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/GithubTutorial/version-control/pappu-pakia/js/utils.js",
+		"/C/Users/Frederic/bash_profile",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/01. Intro/HTML5-placeholder-polyfill-master/dist/placeholder_polyfill.jquery.min.combo.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Week_1_24_09_2015/Demo_Opl/013-async.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/01-Javascript-intro/011-MenuProcessArgv.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Week_1_24_09_2015/Demo_Opl/010-Helloworld.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/helloworld.js",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Backend Webdevelopment/Demo_Opl/01-Javascript-intro/010-Helloworld.js",
+		"/C/Users/Frederic/Documents/NMCT (desktop)/2015-2016/Front End Web Dev/package.json",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Frontend Webdevelopment/LES_2_29.09.2015/Gulpintroduction/bower.json",
+		"/C/Users/Frederic/Google Drive/NMCT/NMCT (2015-2016)/Back End/helloworld.js",
+		"/C/Users/Frederic/AppData/Roaming/Zotero/Zotero/Profiles/6c10xlqf.default/zotero/storage/4NIBW62S/www.neusvoortechnologie.com.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/shoppen.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/inburgering.html",
+		"/C/Users/Frederic/AppData/Local/Temp/7zOF16.tmp/commentsExtended.xml",
+		"/C/Users/Frederic/AppData/Local/Temp/7zO89ED.tmp/comments.xml",
+		"/C/Users/Frederic/AppData/Local/Temp/7zOC4B8.tmp/comments.xml",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/werkwinkel.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/sociaalHuis.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/delijn.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/bpost.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/parko.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/mobiel.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/nmbs.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/caw.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/ziekenhuis.html",
+		"/C/Users/Frederic/Desktop/Project Kortrijk/Video/VideoVivo/apotheker.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chat",
+			"getbroadcastchat",
+			"profileimage",
+			"IMG_FOLDER_PATH",
+			"$imagearray",
+			"echo",
+			"strtotime",
+			"str",
+			"getAllEventsList",
+			"getall",
+			"password",
+			"jshint",
+			"head",
+			"gryspeerdt",
+			"author",
+			"padding",
+			"1",
+			"marker",
+			">\n",
+			"teller",
+			"je was",
+			"fontgroot",
+			"isresetcompl",
+			"homebutton",
+			"multiplayerGameEnd",
+			"textalign",
+			"addmarkers",
+			"resetmap",
+			"aantallop",
+			"getrand",
+			"getcountries",
+			"\\",
+			"'",
+			"arrlanden",
+			"tezoekenlan",
+			"spelreg",
+			"arrlanden",
+			"textalign",
+			"makegohome",
+			"showhom",
+			"makego",
+			"hidegohome",
+			"makegohom",
+			"gohomebutton",
+			"removeGoHomeButton",
+			"removego",
+			"homebutton",
+			"stop",
+			"exit",
+			"close",
+			"iswinner",
+			"homebutton",
+			"shortestdistance",
+			"homebutton",
+			"huetest",
+			"veranderKleurHueOpBasisVanDistance",
+			"checkDistance",
+			"checkdistance",
+			"shortestdistance",
+			"isclient",
+			"binnenkomendbericht",
+			"shortestdistanceclient",
+			"arrmarkersspeler",
+			"addmarkers",
+			"teller",
+			"speel",
+			"removeStartButtons",
+			"homebutton",
+			"resetmap",
+			"mymap.add",
+			"isfirstloop",
+			"aantalbeurten",
+			"ispossible",
+			"makestartbuttons",
+			"timecountdowngestart",
+			"startcountdownwaarde",
+			"zoekLatEnLong",
+			"zoeklatenlong",
+			"DISTANCE",
+			"fontgroot",
+			"luisterNaarClientBerichten",
+			"myclient.write",
+			"myserver",
+			"myClient",
+			"timecountdown",
+			"myclient",
+			"iswinner",
+			"winnaar",
+			"isclient",
+			"aantalbeurten",
+			"aantalBeurtenResterend",
+			"zoeklatenlong",
+			"searchmark",
+			"arrlanden",
+			"tezoekenlan",
+			"arrlanden",
+			"timecountdowngestart",
+			"timecountdown",
+			"cp5",
+			"makestart",
+			"removeStartBut",
+			"removestartbut",
+			"removestartb",
+			"removestr",
+			"removestartbut",
+			"remove",
+			"speelclientb",
+			"binnenkomendbericht",
+			"binnenkomend",
+			"server",
+			"myclient",
+			"stopReadTeken",
+			"isClientReadyWithPlaying",
+			"myclient",
+			"myip",
+			"myserver",
+			"myservers",
+			"server",
+			"solo",
+			"resetm",
+			"7",
+			"speelSoloButton",
+			"speelServerButton",
+			"DISTANCE",
+			"sologameend",
+			"addmarkers",
+			"sologameend",
+			"lstmarkers"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hideGoHomeButton",
+			"showGoHomeButton",
+			"veranderKleurHue",
+			"stelHueWaardenIn",
+			"veranderKleurHueOpBasisVanDistance",
+			"hideStartButtons",
+			"plaatsTeZoekenLandOpKaart",
+			"@@DbName"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/broadcasts.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11313,
+								11313
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1715.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/master.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15182,
+								15189
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4049.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Frederic/Documents/GitHub/udubsit_backend/udubsit_cleanData2/root/Webservice/models/commonclass.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 81920,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64141,
+								64157
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19561.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Processing/Build Systems/Processing.sublime-build",
+	"project": "phpConnectMySQL.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
