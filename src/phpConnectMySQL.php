@@ -11,7 +11,9 @@
 
 
 function checkUserCredentials($username, $password){
+
     global $mysqli;
+    global $errorMsg;
 
     //username & password are filled in
     //clean up
@@ -52,21 +54,30 @@ function checkUserCredentials($username, $password){
       //check if user changed default password
       if($hasPasswordChanged === 0){
         //user didn't change default password
+        $errorMsg = "Need to change default pwd!";
         $_SESSION['username'] = $username;
-        header("Location: changepwd.php");
+        return "changePwd";
+        //header("Location: changepwd.php");
       }  else{
         //user already changed default password
+        $errorMsg = "Go to reports!";
+
         $_SESSION['username'] = $username;
-        header("Location: internship.php");
+        return "reports";
+        //header("Location: internship.php");
       }
+    } else {
+      $errorMsg = "Something went wrong. Check your credentials and try again.";
+      return "login";
     }
 
        
         $stmt->free_result();
-
     
-  }else{
+  } else {
     //echo "No user found!";
+    $errorMsg = "No user found. Check your credentials and try again.";
+    return "login";
   }
 
   //9. alles sluiten
@@ -78,6 +89,7 @@ function checkUserCredentials($username, $password){
 
 function updateUserCredentials($username, $password){
     global $mysqli;
+    global $errorMsg;
 
     //username & password are filled in
     //clean up
@@ -97,6 +109,7 @@ function updateUserCredentials($username, $password){
 
   //4. paramaters binden
   $stmt->bind_param('ss', $password, $username);
+  
 
   if($stmt->error){
     die('Parameters konden niet gebind worden: ' .$stmt->error);
@@ -105,20 +118,30 @@ function updateUserCredentials($username, $password){
   //5. statement uitvoeren
   $stmt->execute();
 
-  //6. check if 1 row wass updated
+  //6. check if 1 row was updated
   
 
   if($stmt->affected_rows >= 0){
         //user changed default password
         $_SESSION['username'] = $username;
         $stmt->free_result();
-        header("Location: reports.php");
+
+        $errorMsg = "user changed default pwd!";
+
+        return 'reports';
+
+        //header("Location: reports.php");
   } else {
         //user didn't change default password
+        $errorMsg = "user didn't changed default pwd!";
+
+
         $_SESSION['username'] = $username;
         $stmt->free_result();
-        header("Location: changepwd.php");
-    }
+
+        return 'changepwd';
+        //header("Location: changepwd.php");
+  }
   
   
 

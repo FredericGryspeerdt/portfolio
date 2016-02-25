@@ -7,9 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!--CSS-->
-    <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
     <link rel="stylesheet" href="css/vendor/normalize.css">
     <!--<link rel="stylesheet" href="css/vendor/pure.css">-->
+    <link rel="stylesheet" href="css/horizontal_menu.css">
+
+
 
     <!-- Bootstrap Core CSS -->
     <link href="css/vendor/bootstrap.min.css" rel="stylesheet">
@@ -31,54 +33,54 @@
 </head>
 <body>
 <!-- Navigation -->
-<a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle">
-    <i class="fa fa-bars"></i>
-</a>
 
-<nav id="sidebar-wrapper" class="">
-    <ul class="sidebar-nav">
-        <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
-        <li class="sidebar-brand">
-            <a href="#top" onclick="$(&quot;#menu-close&quot;).click();">Frederic Gryspeerdt</a>
-        </li>
-        <li>
-            <a href="#top" onclick="$(&quot;#menu-close&quot;).click();">Home</a>
-        </li>
-        <li>
-            <a href="#about" onclick="$(&quot;#menu-close&quot;).click();">About</a>
-        </li>
-        <li>
-            <a href="#portfolio" onclick="$(&quot;#menu-close&quot;).click();">Portfolio</a>
-        </li>
-        <li>
-            <a href="#cv" onclick="$(&quot;#menu-close&quot;).click();">Curriculum vitae</a>
-        </li>
-        <li>
-            <a href="#blog" onclick="$(&quot;#menu-close&quot;).click();">Blog</a>
-        </li>
-        <li>
-            <a href="#contact" onclick="$(&quot;#menu-close&quot;).click();">Contact</a>
-        </li>
-    </ul>
-</nav>
+<link href='http://fonts.googleapis.com/css?family=Montserrat|Cardo' rel='stylesheet' type='text/css'>
 
-<!-- Header -->
-<header id="top" class="header">
-    <div class="text-vertical-center">
-        <h1>Frederic Gryspeerdt</h1>
+<header class="main_h">
 
-        <h3>Web developer and historian</h3>
-        <br>
-        <a href="#about" class="btn btn-dark btn-lg">Find Out More</a>
+    <!--<div class="row">-->
+    <div class="row_menu">
+        <a class="logo" href="#">F/G</a>
+
+        <div class="mobile-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#cv">Curriculum Vitae</a></li>
+                <li><a href="internship.php">Internship</a></li>
+                <li><a href="http://student.howest.be/frederic.gryspeerdt/fredericgryspeerdt/blog/" target="_blank">Blog</a></li>
+                <li><a href="#contact">Contact</a></li>
+
+            </ul>
+        </nav>
+
     </div>
+    <!-- / row -->
+
 </header>
 
+<div class="hero">
+
+    <h1><span>Frederic Gryspeerdt</span><br>Developer with a history*</h1>
+
+    <div class="mouse">
+        <span></span>
+    </div>
+
+</div>
+
 <!-- About -->
-<section id="about" class="about">
+<section id="about" class="about sec01">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-center">
-                <h2>Aspiring web developer and historian</h2>
+                <h2>*Aspiring web developer and historian</h2>
 
                 <p class="lead">Check out my <a href="#portfolio">portfolio</a> and <a href="#cv">curriculum vitae</a></p>
             </div>
@@ -214,11 +216,13 @@
     <div class="container" id="contact">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-center">
+                <h2>Contact</h2>
+                <hr class="small">
                 <h4><strong>Frederic Gryspeerdt</strong>
                 </h4>
                 <p>Localhost<br>Roeselare, Belgium</p>
                 <ul class="list-unstyled">
-                    <li><i class="fa fa-envelope-o fa-fw"></i>  <a href="mailto:name@example.com">frederic.gryspeerdt@gmail.com</a>
+                    <li><i class="fa fa-envelope-o fa-fw"></i>frederic.gryspeerdt[at]gmail.com
                     </li>
                 </ul>
                 <br>
@@ -243,7 +247,8 @@
 <!-- Bootstrap Core JavaScript -->
 <script src="js/vendor/bootstrap.min.js"></script>
 <!-- Custom Theme JavaScript -->
-<script src="js/menu.js"></script>
+<script src="js/horizontal_menu.js"></script>
+
 
 
 </body>

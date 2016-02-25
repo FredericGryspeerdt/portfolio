@@ -17,7 +17,7 @@
             $errorMsg = $errorMsg . "Password required.";
     } else {
          $password = $_POST['txtPassword'];
-         echo $password;
+         //echo $password;
          $isValid = true;
     }
     
