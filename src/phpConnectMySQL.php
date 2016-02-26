@@ -27,6 +27,8 @@ function checkUserCredentials($username, $password){
   $stmt = $mysqli->prepare('SELECT * FROM users WHERE username=? AND password=?');
   if($stmt->error){
     die('Statement kon niet geprepared worden: '.$stmt->error);
+  } else {
+     $errorMsg = "Something went wrong. Check your credentials and try again.";
   }
 
   //4. paramaters binden
@@ -34,6 +36,8 @@ function checkUserCredentials($username, $password){
 
   if($stmt->error){
     die('Parameters konden niet gebind worden: ' .$stmt->error);
+  } else {
+     $errorMsg = "Something went wrong. Check your credentials and try again.";
   }
 
   //5. statement uitvoeren
@@ -54,13 +58,13 @@ function checkUserCredentials($username, $password){
       //check if user changed default password
       if($hasPasswordChanged === 0){
         //user didn't change default password
-        $errorMsg = "Need to change default pwd!";
+        //$errorMsg = "Need to change default pwd!";
         $_SESSION['username'] = $username;
         return "changePwd";
         //header("Location: changepwd.php");
-      }  else{
+      }  else {
         //user already changed default password
-        $errorMsg = "Go to reports!";
+        //$errorMsg = "Go to reports!";
 
         $_SESSION['username'] = $username;
         return "reports";
@@ -105,6 +109,8 @@ function updateUserCredentials($username, $password){
   $stmt = $mysqli->prepare('UPDATE users SET password =?, hasPasswordChanged=true WHERE username=?');
   if($stmt->error){
     die('Statement kon niet geprepared worden: '.$stmt->error);
+  } else {
+     $errorMsg = "Something went wrong. Check your credentials and try again.";
   }
 
   //4. paramaters binden
@@ -113,6 +119,8 @@ function updateUserCredentials($username, $password){
 
   if($stmt->error){
     die('Parameters konden niet gebind worden: ' .$stmt->error);
+  } else {
+     $errorMsg = "Something went wrong. Check your credentials and try again.";
   }
 
   //5. statement uitvoeren
@@ -126,14 +134,14 @@ function updateUserCredentials($username, $password){
         $_SESSION['username'] = $username;
         $stmt->free_result();
 
-        $errorMsg = "user changed default pwd!";
+        //$errorMsg = "user changed default pwd!";
 
         return 'reports';
 
         //header("Location: reports.php");
   } else {
         //user didn't change default password
-        $errorMsg = "user didn't changed default pwd!";
+        //$errorMsg = "user didn't changed default pwd!";
 
 
         $_SESSION['username'] = $username;

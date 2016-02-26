@@ -13,6 +13,10 @@
     $showChangePwd = "hidden";
     $showReports = "hidden";
 
+    $txtLogin = "You need to log in to see my weekly reports.";
+    $txtChangePwd = "I see that you still need to change your default password. Let's do this now!";
+    $txtReports = "Take a look at my reports.";
+
 
     if(isset($_POST['btnLogin'])){
         //user pressed login button
@@ -144,10 +148,10 @@
 
         <nav>
             <ul>
-                <li><a href="./#about">About</a></li>
-                <li><a href="./#portfolio">Portfolio</a></li>
-                <li><a href="./#cv">Curriculum Vitae</a></li>
-                <li><a href="internship.php" target="_blank">Internship</a></li>
+                <li><a href="./index.html">Home</a></li>
+                <li><a href="#internship">Internship</a></li>
+                <li><a href="#reports">Reports</a></li>
+                <li><a href="#map">Map</a></li>
                 <li><a href="http://student.howest.be/frederic.gryspeerdt/fredericgryspeerdt/blog/"
                        target="_blank">Blog</a></li>
                 <li><a href="#contact">Contact</a></li>
@@ -212,11 +216,36 @@
             <div class="col-lg-10 col-lg-offset-1 text-center">
                 <h2>Weekly reports</h2>
                 <hr class="small">
-                <p class="lead">You need to log in to see my weekly reports</p>
+                <p class="lead">
+                <?php 
+
+                    if(isset($_SESSION['step'])){
+                        switch ($_SESSION['step']) {
+                            case '':
+                                echo $txtLogin;
+                                break;
+                            case 'login':
+                                echo $txtLogin;
+                            break;
+
+                            case 'changePwd':
+                                echo $txtChangePwd;
+                            break;
+
+                            case 'reports':
+                                echo $txtReports;
+                            break;
+                            
+                            default:
+                                echo $txtLogin;
+                                break;
+                        }
+                    }
+                ?></p>
 
                 <!--hide/show based on authentication flow-->
-                                <p>Error: <?php echo $errorMsg; ?></p>
-                                <p>Step: <?php echo (isset($_SESSION['step']) ? $_SESSION['step'] : 'N/A' ); ?></p>
+                
+                <!--<p>Step: <?php echo (isset($_SESSION['step']) ? $_SESSION['step'] : 'N/A' ); ?></p>-->
 
 
                 <!--Login-->
@@ -241,6 +270,13 @@
                                     <input id="password" name="txtPassword" type="password" placeholder="password"
                                            class="form-control input-md" required="">
 
+                                </div>
+                            </div>
+
+                            <!--error message-->
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <p class="bg-warning "><?php echo $errorMsg; ?></p>
                                 </div>
                             </div>
 
@@ -272,6 +308,13 @@
 
                                 </div>
                             </div>
+                    
+                           <!--error message-->
+                            <div class="form-group">
+                                <div class="col-md-12">
+                                    <p class="bg-warning "><?php echo $errorMsg; ?></p>
+                                </div>
+                            </div>
 
                             <!-- Button -->
                             <div class="form-group">
@@ -289,9 +332,11 @@
 
                 </div>
 
+
+
+
                 <!-- Reports -->
                 <div class="row <?php echo (isset($_SESSION['step']) && $_SESSION['step'] == "reports" ? 'show' : 'hidden')?>">
-                    <p>Here are some reports ...</p>
                 </div>
                 <!-- /.row (nested) -->
             </div>
@@ -304,6 +349,12 @@
 
 <!-- Map -->
 <section id="map" class="map">
+    <div class="row">
+                <div class="col-lg-10 col-lg-offset-1 text-center">
+                    <h2>Map</h2>
+                    <hr class="small">
+                </div>
+    </div>
     <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
             src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBfJhD8tMdHUkh6pfqFuNfV1x1v1scEib8&q=CoLab+University+of+the+western+cape,Cape+Town"></iframe>
     <br/>
@@ -319,9 +370,10 @@
     <div class="container" id="contact">
         <div class="row">
             <div class="col-lg-10 col-lg-offset-1 text-center">
+                <h2>Contact</h2>
+                <hr class="small">
                 <h4><strong>Frederic Gryspeerdt</strong>
                 </h4>
-
                 <p>Localhost<br>Roeselare, Belgium</p>
                 <ul class="list-unstyled">
                     <li><i class="fa fa-envelope-o fa-fw"></i>frederic.gryspeerdt[at]gmail.com
@@ -333,8 +385,7 @@
                         <a href="https://github.com/FredericGryspeerdt"><i class="fa fa-github fa-fw fa-3x"></i></a>
                     </li>
                     <li>
-                        <a href="https://be.linkedin.com/in/frederic-gryspeerdt-584293b5"><i
-                                class="fa fa-linkedin fa-fw fa-3x"></i></a>
+                        <a href="https://be.linkedin.com/in/frederic-gryspeerdt-584293b5"><i class="fa fa-linkedin fa-fw fa-3x"></i></a>
                     </li>
                 </ul>
                 <hr class="small">
