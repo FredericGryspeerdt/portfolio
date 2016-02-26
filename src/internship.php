@@ -221,7 +221,7 @@
 
                 <!--Login-->
                 <div class="row <?php echo (!isset($_SESSION['step']) || (isset($_SESSION['step']) && $_SESSION['step'] == "login") ? 'show' : 'hidden')?>">
-                    <form class="form-horizontal" method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+                    <form class="form-horizontal" method="POST" action="<?php echo $_SERVER['PHP_SELF'] . '#reports'; ?>">
                         <fieldset>
                             <!-- Text input-->
                             <div class="form-group">
@@ -260,7 +260,7 @@
 
                 <!--Change password-->
                 <div class="row <?php echo (isset($_SESSION['step']) && $_SESSION['step'] == "changePwd" ? 'show' : 'hidden')?>">
-                    <form class="form-horizontal" method="POST" action="<?php echo $_SERVER['PHP_SELF']; ?>">
+                    <form class="form-horizontal" method="POST" action="<?php echo $_SERVER['PHP_SELF'] . '#reports'; ?>">
                         <fieldset>
                             <!-- Password input-->
                             <div class="form-group">
